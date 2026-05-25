@@ -16,7 +16,8 @@ file-organizer/
 ├── requirements.txt           
 ├── cleaner.pyw                
 ├── run_satpam.bat             
-└── README.md     
+└── README.md   
+
  💻 Aturan Pemilahan Direktori
 
 Penyortiran dan pembersihan otomatis diatur secara ketat berdasarkan aturan tabel berikut:
