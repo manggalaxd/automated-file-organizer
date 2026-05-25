@@ -41,8 +41,8 @@ pip install -r requirements.txt
 
 file-organizer/
 │
-├── venv/                      # Folder Virtual Environment Python
-├── requirements.txt           # File daftar library (watchdog==4.0.0)
-├── cleaner.pyw                # File kode utama Python (Background Mode)
-├── run_satpam.bat             # File script launcher Windows
-└── README.md                  # Dokumentasi ini
+├── venv/                      
+├── requirements.txt           
+├── cleaner.pyw                
+├── run_satpam.bat             
+└── README.md                  
