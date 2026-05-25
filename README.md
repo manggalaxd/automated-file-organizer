@@ -10,6 +10,7 @@ Fitur Utama
 4. Clean Code Architecture: Kode program dipecah secara modular menganut *Single Responsibility Principle*, bebas dari *magic numbers*, dan dibekali penanganan error yang kokoh (*Robust Error Handling*).
 
 Struktur Projek
+
 file-organizer/
 │
 ├── venv/                      
