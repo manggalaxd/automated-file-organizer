@@ -9,6 +9,14 @@ Fitur Utama
 3. Smart Delay Handle: Menerapkan jeda I/O selama 1 detik untuk mencegah kegagalan pemindahan data yang belum selesai diunduh oleh browser secara sempurna (*corrupted file prevention*).
 4. Clean Code Architecture: Kode program dipecah secara modular menganut *Single Responsibility Principle*, bebas dari *magic numbers*, dan dibekali penanganan error yang kokoh (*Robust Error Handling*).
 
+Struktur Projek
+file-organizer/
+│
+├── venv/                      
+├── requirements.txt           
+├── cleaner.pyw                
+├── run_satpam.bat             
+└── README.md     
  💻 Aturan Pemilahan Direktori
 
 Penyortiran dan pembersihan otomatis diatur secara ketat berdasarkan aturan tabel berikut:
@@ -39,10 +47,4 @@ source venv/bin/activate  # Untuk Linux/macOS
 pip install -r requirements.txt
 ```
 
-file-organizer/
-│
-├── venv/                      
-├── requirements.txt           
-├── cleaner.pyw                
-├── run_satpam.bat             
-└── README.md                  
+             
